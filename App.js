@@ -117,7 +117,7 @@ export default function App() {
           {/* 사진 관련 버튼들 */}
           <View>
               <Pressable onPress={getPhoto}>
-                <Text>사진찍~~~~~~~~~~~~~~~기</Text>
+                <Text>사진찍~~~~~~~~~~~~~~기</Text>
               </Pressable>
               <Pressable onPress={getGallery}>
                 <Text>갤러리</Text>
